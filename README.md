@@ -21,6 +21,6 @@ This Python program predicts the weather for any city you want (with any weather
 2. Install the required libraries using pip:
 
    ```bash
-   pip install requests beautifulsoup4 numpy```
+   pip install requests beautifulsoup4 numpy
 3. put the weather website you want
-4. 4. do the rest :)
+4. do the rest :)
